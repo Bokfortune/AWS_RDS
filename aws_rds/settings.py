@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'aws_rds',
         'USER':'admin',
         'PASSWORD':'admin1234',
-        'HOST' : 'database-1.cxmammgm4xvi.ap-northeast-2.rds.amazonaws.com',
+        'HOST' : 'database-1.cp8w8c0228rg.ap-northeast-2.rds.amazonaws.com',
         'PORT' : '3306'
     }
 }
